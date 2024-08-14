@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zvezdd](https://github.com/zvezdd)
 
+- 💻 Open to work
+
 - 📫 How to reach me **qwiszvezd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
